@@ -1,0 +1,11 @@
+data.db
+Project1.exe
+casl-set-timeout-for-ajax.exe
+sqlite3.c
+sqlite3.h
+Project1.layout
+Makefile.win
+casl-set-timeout-for-ajax.layout
+casl-set-timeout-for-ajax.exe
+main.o
+sqlite3.o
